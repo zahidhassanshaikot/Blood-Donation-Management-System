@@ -1,0 +1,255 @@
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll.config
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\BloodInfo1.pdb
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\EntityFramework.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Owin.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\System.Web.Providers.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\WebGrease.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.pdb
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\EntityFramework.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.csprojResolveAssemblyReference.cache
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.dll
+c:\users\shaikot\documents\visual studio 2013\Projects\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.pdb
+D:\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll.config
+D:\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll
+D:\BloodInfo1\BloodInfo1\bin\BloodInfo1.pdb
+D:\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.dll
+D:\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.jQuery.dll
+D:\BloodInfo1\BloodInfo1\bin\EntityFramework.dll
+D:\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Web.Infrastructure.dll
+D:\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.dll
+D:\BloodInfo1\BloodInfo1\bin\Owin.dll
+D:\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.dll
+D:\BloodInfo1\BloodInfo1\bin\System.Web.Providers.dll
+D:\BloodInfo1\BloodInfo1\bin\WebGrease.dll
+D:\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.xml
+D:\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.pdb
+D:\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BloodInfo1\BloodInfo1\bin\EntityFramework.xml
+D:\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.csprojResolveAssemblyReference.cache
+D:\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.dll
+D:\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.pdb
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll.config
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.pdb
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Owin.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Providers.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\WebGrease.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.pdb
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.csprojResolveAssemblyReference.cache
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.dll
+C:\Users\KAWSAR\Desktop\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.pdb
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll.config
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.pdb
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Web.Infrastructure.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Owin.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Providers.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\WebGrease.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.pdb
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.csprojResolveAssemblyReference.cache
+F:\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.dll
+F:\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.pdb
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll.config
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\BloodInfo1.pdb
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Web.Infrastructure.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Owin.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Providers.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\WebGrease.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\System.Web.Optimization.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Antlr3.Runtime.pdb
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Newtonsoft.Json.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\EntityFramework.SqlServer.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Google.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.csprojResolveAssemblyReference.cache
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.dll
+D:\Shaikot\Shaikot\BloodInfo1\BloodInfo1\obj\Debug\BloodInfo1.pdb
